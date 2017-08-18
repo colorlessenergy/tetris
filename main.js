@@ -71,6 +71,7 @@ function createPiece(type) {
       [0, 5, 0, 0],
       [0, 5, 0, 0],
       [0, 5, 0, 0],
+      [0, 5, 0, 0],
     ];
   } else if (type === 'S') {
     return [
